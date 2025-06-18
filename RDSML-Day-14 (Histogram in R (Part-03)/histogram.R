@@ -45,4 +45,3 @@ myPlot + scale_color_manual(values = c("#999999", "#E69F00")) +
 # Using color brewer color palettes
 myPlot + scale_color_brewer(palette = "Dark2") +
   scale_fill_brewer(palette = "Dark2")
-
